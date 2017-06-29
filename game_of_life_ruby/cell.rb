@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-
 #class to define the structure of each cell in the grid
 class Cell
 
@@ -21,14 +20,6 @@ class Cell
 		else
 			return false
 		end
-	end
-
-	def x?
-		return x
-	end
-
-	def y?
-		return y
 	end
 
 	#toggle the state of a cell
