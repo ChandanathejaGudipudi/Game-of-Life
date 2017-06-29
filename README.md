@@ -1,2 +1,2 @@
-# Game-of-Life-
-Simple Java Implementation of Conway's Game of Life with some memory optimization
+# Game-of-Life
+Simple Java and Ruby Implementations of Conway's Game of Life with some memory optimization
